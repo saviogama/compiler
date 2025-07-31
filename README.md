@@ -1,7 +1,9 @@
-# Projeto da disciplina de Compiladores
+# Compiler
 
-## Conteúdo do compilador
-- [x] Tabela de Simbolos
-- [x] Analisador Léxico
-- [x] Analisador Sintático
-- [x] Analisador Semântico
+A simple compiler implemented in Java as part of the assessment for the Compilers course at UFRPE.
+
+### Compiler Contents
+- Symbol Table
+- Lexical Analyzer
+- Syntax Analyzer
+- Semantic Analyzer
